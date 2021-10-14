@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+    line-height: 1.6;
+}
+
+.bg-navy{
+   background-color: navy;
+}
+.bg-orange{
+    background-color: orange;
+}
+.text-navy{
+    color: navy;
+}
+.text-orange{
+    color: orange;
+}
+
+.navbar-text{
+    font-family: 'Lobster', cursive;
+}
+
+.navbar-text:hover{
+    color: orange;
+}
+
+.hero-heading{
+    font-family: 'Lobster', cursive;
+    letter-spacing: 0.3rem;
+    font-size: 1.8rem;
+
+}
+
+.section-2{
+    padding-top: 6rem;
+}
+
+.section-2-bg-img-container{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.section-2-bg-img{
+    background-image: url("./images/bg-img.jpeg");
+    height: 600px;
+}
+
+.form-container{
+    background-color: transparent;
+}
+
+.search-form {
+    background-color: rgb(0, 0, 128, 0.2);
+}
